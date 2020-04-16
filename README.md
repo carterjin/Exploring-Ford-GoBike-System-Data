@@ -6,7 +6,7 @@ The data is from the Lyft's Bay Wheels's trip data, which is publicly available,
 
 https://www.lyft.com/bikes/bay-wheels/system-data
 
-The data consists of 5618612 entries of bike rental information from July 2017 to Feb 2020, can still updating. Each trip includes the following information: trip duration, start and end time, start and end station name and corresponing locations, bike ID and user type (whether a subscriber or a casual customer).
+The data consists of 5,618,612 entries of bike rental information from July 2017 to Feb 2020. Each trip includes the following information: trip duration, start and end time, start and end station name and corresponing locations, bike ID and user type (whether a subscriber or a casual customer).
 
 ## Summary of Findings
 
